@@ -1,7 +1,7 @@
 {
     "name": "com.gigacee.missingfinder",
     "version": "1.0.0",
-    "displayName": "Unity Missing Finder",
+    "displayName": "Missing Finder",
     "description": "Find missing components and references in your Unity project.",
     "unity": "2019.4",
     "keywords": [
