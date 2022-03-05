@@ -80,22 +80,8 @@ crashlytics-build.properties
 # JetBrains Rider
 ########################################################################################################################
 
-# Default ignored files
-/.idea/**/shelf/
-/.idea/**/workspace.xml
-
-# Rider ignored files
-/.idea/**/modules.xml
-/.idea/**/projectSettingsUpdater.xml
-/.idea/**/contentModel.xml
-/.idea/**/.idea.*.iml
-
-# Datasource local storage ignored files
-/.idea/**/dataSources/
-/.idea/**/dataSources.local.xml
-
-# Editor-based HTTP Client requests
-/.idea/**/httpRequests/
+# Jetbrains Rider cache directory
+.idea/
 
 ########################################################################################################################
 # General
