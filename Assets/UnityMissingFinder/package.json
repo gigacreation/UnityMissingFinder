@@ -1,5 +1,5 @@
 {
-    "name": "com.gigacee.unitymissingfinder",
+    "name": "com.gigacee.missingfinder",
     "version": "1.0.0",
     "displayName": "Unity Missing Finder",
     "description": "Find missing components and references in your Unity project.",
