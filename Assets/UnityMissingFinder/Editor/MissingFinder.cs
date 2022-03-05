@@ -11,7 +11,7 @@ namespace UnityMissingFinder
 {
     public static class MissingFinder
     {
-        private const string Category = "Tools/Gigacee/Find Missing";
+        private const string Category = "Tools/Gigacee/Missing Finder/";
 
         [MenuItem(Category + "Find Missing in Current Stage", priority = 0)]
         public static void FindMissingInCurrentStage()
