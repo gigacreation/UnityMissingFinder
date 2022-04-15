@@ -7,7 +7,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace UnityMissingFinder
+namespace GigaceeTools
 {
     public static class MissingFinder
     {
