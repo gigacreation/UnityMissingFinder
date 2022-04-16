@@ -11,9 +11,10 @@ namespace GigaceeTools
 {
     public static class MissingFinder
     {
-        private const string Category = "Tools/Gigacee/Missing Finder/";
+        private const int CategoryPriority = 10;
+        private const string Category = "Tools/Gigacee Tools/Missing Finder/";
 
-        [MenuItem(Category + "Find Missing in Current Stage", priority = 0)]
+        [MenuItem(Category + "Find Missing in Current Stage", priority = CategoryPriority)]
         public static void FindMissingInCurrentStage()
         {
             PrefabStage prefabStage = PrefabStageUtility.GetCurrentPrefabStage();
@@ -46,7 +47,7 @@ namespace GigaceeTools
             Debug.Log("The process has been completed.");
         }
 
-        [MenuItem(Category + "Find Missing in Enabled Scenes", priority = 1)]
+        [MenuItem(Category + "Find Missing in Enabled Scenes", priority = CategoryPriority + 1)]
         public static void FindMissingInEnabledScenes()
         {
             string currentScenePath = SceneManager.GetActiveScene().path;
@@ -62,7 +63,7 @@ namespace GigaceeTools
             Debug.Log("All processes have been completed.");
         }
 
-        [MenuItem(Category + "Find Missing in All Scenes", priority = 2)]
+        [MenuItem(Category + "Find Missing in All Scenes", priority = CategoryPriority + 2)]
         public static void FindMissingInAllScenes()
         {
             string currentScenePath = SceneManager.GetActiveScene().path;
@@ -78,7 +79,7 @@ namespace GigaceeTools
             Debug.Log("All processes have been completed.");
         }
 
-        [MenuItem(Category + "Find Missing in Prefab Assets", priority = 3)]
+        [MenuItem(Category + "Find Missing in Prefab Assets", priority = CategoryPriority + 3)]
         public static void FindMissingInPrefabAssets()
         {
             foreach (string path in AssetDatabase.FindAssets("t:Prefab").Select(AssetDatabase.GUIDToAssetPath))
