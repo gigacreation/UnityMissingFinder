@@ -11,7 +11,7 @@ namespace GigaceeTools
 {
     public static class MissingFinder
     {
-        private const int CategoryPriority = 2000001010;
+        private const int CategoryPriority = 2000000030;
         private const string Category = "Tools/Gigacee Tools/Missing Finder/";
 
         [MenuItem(Category + "Find Missing in Current Stage", priority = CategoryPriority)]
