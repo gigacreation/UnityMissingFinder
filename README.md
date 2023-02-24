@@ -2,9 +2,9 @@
 
 Unity Missing Finder will help you find missing components and references in your Unity project.
 
-## Usage
+![Demo](https://user-images.githubusercontent.com/5264444/221176837-3d9cef1f-16d9-469b-9e46-7a047ef3ad58.png)
 
-![Menu Item](https://user-images.githubusercontent.com/5264444/156892618-7f0dcc41-8fb8-40ad-b427-4ceda4fdf6d6.png)
+## Usage
 
 🚧 TO BE WRITTEN 🚧
 
