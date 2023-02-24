@@ -12,7 +12,7 @@ Unity Missing Finder will help you find missing components and references in you
 
 ### Package Manager
 
-- `https://github.com/gigacee/UnityMissingFinder.git?path=Assets/UnityMissingFinder`
+- `https://github.com/gigacreation/UnityMissingFinder.git?path=Assets/UnityMissingFinder`
 
 ### Manual
 
