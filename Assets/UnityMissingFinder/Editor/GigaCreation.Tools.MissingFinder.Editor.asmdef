@@ -1,5 +1,5 @@
 {
-    "name": "UnityMissingFinder.Editor",
+    "name": "GigaCreation.Tools.MissingFinder.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [

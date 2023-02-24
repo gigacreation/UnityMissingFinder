@@ -1,16 +1,23 @@
 {
-    "name": "com.gigacee.missingfinder",
-    "version": "1.0.0",
+    "name": "jp.gigacreation.tools.missingfinder",
+    "version": "2.0.0",
     "displayName": "Missing Finder",
     "description": "Find missing components and references in your Unity project.",
-    "unity": "2019.4",
+    "unity": "2021.3",
     "keywords": [
         "Unity",
         "Missing"
     ],
     "author": {
-        "name": "Gigacee",
+        "name": "GIGA CREATION",
         "email": "gigacee@gigacreation.jp",
         "url": "https://www.gigacreation.jp/"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "This sample contains Scenes and Prefabs with Missing. Import this sample and try the Find Missing commands from the menu.",
+            "path": "Sample~"
+        }
+    ]
 }
