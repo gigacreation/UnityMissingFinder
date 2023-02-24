@@ -4,6 +4,10 @@ This package provides the menu items for finding missing components and referenc
 
 ![Demo](https://user-images.githubusercontent.com/5264444/221176837-3d9cef1f-16d9-469b-9e46-7a047ef3ad58.png)
 
+## 日本語による説明 / Explanation in Japanese
+
+[Unity プロジェクト内の Missing を検索するツールを公開しました](https://blog.gigacreation.jp/entry/2023/02/24/225454)
+
 ## Usage
 
 After installation, `Tools/GIGA CREATION/Missing Finder/` will be added to the menu. You can execute the following commands:
