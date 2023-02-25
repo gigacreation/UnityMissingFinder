@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.0.1 (2023-02-25)
+
+- Add support for Unity 2020.1
+
 ## 2.0.0 (2023-02-24)
 
 - The number of missing is now displayed after a find

@@ -1,10 +1,15 @@
-﻿using System.Collections.Generic;
+﻿// ReSharper disable RedundantUsingDirective
+
+using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+#if UNITY_2021_2_OR_NEWER
+using UnityEditor.Experimental.SceneManagement;
+#endif
 
 namespace GigaCreation.Tools.MissingFinder.Editor
 {
