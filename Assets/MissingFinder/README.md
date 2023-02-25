@@ -27,8 +27,8 @@ After installation, `Tools/GIGA CREATION/Missing Finder/` will be added to the m
 
 ### Package Manager
 
-- `https://github.com/gigacreation/UnityMissingFinder.git?path=Assets/UnityMissingFinder`
+- `https://github.com/gigacreation/UnityMissingFinder.git?path=Assets/MissingFinder`
 
 ### Manual
 
-- Copy `Assets/UnityMissingFinder/` to your project.
+- Copy `Assets/MissingFinder/` to your project.
