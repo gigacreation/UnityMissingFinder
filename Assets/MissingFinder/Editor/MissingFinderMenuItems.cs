@@ -13,7 +13,7 @@ namespace GigaCreation.Tools.MissingFinder.Editor
 {
     public static class MissingFinderMenuItems
     {
-        private const int CategoryPriority = 20010;
+        private const int CategoryPriority = 20000;
         private const string Category = "Tools/GIGA CREATION/Missing Finder/";
 
         [MenuItem(Category + "Find Missing in Current Scene", priority = CategoryPriority)]

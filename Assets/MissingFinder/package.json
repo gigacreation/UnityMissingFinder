@@ -1,6 +1,6 @@
 {
     "name": "jp.gigacreation.tools.missingfinder",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "displayName": "Missing Finder",
     "description": "Find missing components and references in your Unity project.",
     "unity": "2020.1",
